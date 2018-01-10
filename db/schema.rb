@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180110142606) do
+ActiveRecord::Schema.define(version: 20160614154147) do
 
   create_table "chat_rooms", force: :cascade do |t|
     t.string "title"
